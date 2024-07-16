@@ -61,7 +61,7 @@ Idea of the bot:
 
 ### Built With
 
-- [![TypeScript][Next.js]][Next-url]
+- [![TypeScript][TypeScript]][TypeScript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
