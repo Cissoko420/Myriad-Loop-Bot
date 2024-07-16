@@ -57,13 +57,9 @@ Idea of the bot:
 - Judges will get notified in private chat once users submit their loop and need to cast vote
 - Once vote threshold is met results come out and award winners updating their ranks.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 - [![TypeScript][TypeScript]][TypeScript-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
@@ -73,8 +69,6 @@ Queue for battle using /battle, wait for another person to also queue for battle
 Submit loop using /submit <loopFile.mp3/wav>
 Judges get notified to vote on each loop using /vote <Battle Number> <User A or B> <Score>
 After judges vote threshold is met, results come out for users to see. They get awarded points depending on rankings.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 
@@ -103,8 +97,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
