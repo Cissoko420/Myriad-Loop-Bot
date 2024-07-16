@@ -102,7 +102,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Your Name - [@Cissoko420](https://x.com/Cissoko420) - pedrodc420@hotmail.com
+Cissoko420 - [@Cissoko420](https://x.com/Cissoko420) - pedrodc420@hotmail.com
 
 Project Link: [https://github.com/Cissoko420/Myriad-Loop-Bot](https://github.com/Cissoko420/Myriad-Loop-Bot)
 
