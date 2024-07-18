@@ -15,7 +15,7 @@
   <h3 align="center">Myriad Loop Bot</h3>
 
   <p align="center">
-    Music Battle Bot (Development stopped per owner request)
+    Music Battle Bot (Development stopped by client)
     <br />
     <a href="https://github.com/Cissoko420/Myriad-Loop-Bot"><strong>Explore the docs »</strong></a>
     <br />
