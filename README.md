@@ -70,6 +70,7 @@ Submit loop using /submit <loopFile.mp3/wav>
 Judges get notified to vote on each loop using /vote <Battle Number> <User A or B> <Score>
 After judges vote threshold is met, results come out for users to see. They get awarded points depending on rankings.
 
+Judges have a seperate channel to submit "verified" loops so they can be used for each battle (Won't queue for Battle if no loops present in the judges loop submit chat / Loops just need to be sent to the specific channel no command needed)
 <!-- ROADMAP -->
 
 ## Roadmap
